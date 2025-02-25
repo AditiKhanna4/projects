@@ -1,31 +1,4 @@
----
-title: "Homework 3"
-author: "PSTAT 134/234"
-format:
-  html:
-    toc: true
-    toc-location: left
-    toc-depth: 4
-    embed-resources: true
-    theme: simplex
-    code-fold: show
-editor: visual
-execute:
-  warning: false
-  message: false
----
 
-## Homework 3
-
-![Star Trek ships.](star_trek.jpeg)
-
-For this homework assignment, we'll be working with a dataset called [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview). It is a simulated dataset used for a popular Kaggle competition, intended to be similar to the very famous Titanic dataset. The premise of the Spaceship Titanic data is that it is currently the year 2912. You have received a transmission from four lightyears away, sent by the Spaceship Titanic, which was launched a month ago.
-
-The Titanic set out with about 13,000 passengers who were emigrating from our solar system to three newly habitable exoplanets. However, it collided with a spacetime anomaly hidden in a dust cloud, and as a result, although the ship remained intact, half of the passengers on board were transported to an alternate dimension. Your challenge is to predict which passengers were transported, using records recovered from the spaceship's damaged computer system.
-
-The dataset is provided in `/data`, along with a codebook describing each variable. You should read the dataset into your preferred coding language (R or Python) and familiarize yourself with each variable.
-
-We will use this dataset for the purposes of practicing our data visualization and feature engineering skills.
 
 ### Exercise 1
 
